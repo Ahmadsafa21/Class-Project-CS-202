@@ -2,8 +2,6 @@
 #include <iostream>
 
 
-
-
 node::node():
     next{nullptr},
     prev{nullptr},
